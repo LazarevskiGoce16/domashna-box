@@ -1,143 +1,70 @@
-header {
-    background-color: #c1c1c1;
+body {
+    background-color: lightgray;
 }
-.logo h2 {
+.logo {
     display: inline-block;
-    width: 250px;
+    background-color: gray;
+    margin: 20px 50px 10px 50px;
+    width: 1350px;
+    padding: 35px;
     font-style: initial;
-    color: #464646;
-    margin: 30px 175px 15px 120px;
     font-size: 40px;
+    color: #202020;
 }
-.logo a {
+nav {
     display: inline-block;
+    background-color: gray;
+    margin: 10px 50px 10px 50px;
+    width: 1380px;
+    padding: 20px;
     font-style: initial;
-    color: #464646;
-    text-decoration: none;
-    font-size: 22px;
-    margin: 15px 5px 15px 20px;
+    font-size: 25px;
+    color: #202020;
+    text-align: center;
 }
-.intro {
+header {
     display: inline-block;
+    background-color: gray;
+    margin: 10px 50px 10px 50px;
+    width: 1300px;
+    padding: 60px;
     font-style: initial;
-    color: #464646;
-}
-.intro h1 {
-    margin: 10px 20px 20px 120px;
-    font-size: 80px;
-    width: 250px;
-}
-.intro p {
-    margin: 10px 20px 20px 120px;
-    font-size: 22px;
-    width: 200px;
-}
-.slider {
-    display: inline-block;
-    background-color: #7e7e7e;
-    padding: 85px 170px;
-    color: #464646;
-    margin: 10px 20px 20px 60px;
-    font-size: 25px;
-    width: 150px;
-}
-.serv-1 {
-    display: inline-block;
-    background-color: #c1c1c1;
-    color: #464646;
+    font-size: 30px;
+    color: #202020;
     text-align: center;
-    margin: 50px 15px 20px 120px;
-    padding: 120px 30px;
-    width: 200px;
-    font-size: 25px;
-    font-style: inherit;
 }
-.serv-2 {
+.side-bar {
     display: inline-block;
-    background-color: #c1c1c1;
-    color: #464646;
+    background-color: gray;
+    margin: 10px 10px 10px 50px;
+    width: 450px;
+    height: 500px;
+    padding: 25px;
+    font-style: initial;
+    font-size: 35px;
+    color: #202020;
     text-align: center;
-    margin: 30px 15px 20px 0px;
-    padding: 120px 30px;
-    width: 200px;
-    font-size: 25px;
-    font-style: inherit;
 }
-.serv-3 {
+.body {
     display: inline-block;
-    background-color: #c1c1c1;
-    color: #464646;
+    background-color: gray;
+    margin: 10px 20px 10px 10px;
+    width: 855px;
+    height: 510px;
+    padding: 20px;
+    font-style: initial;
+    font-size: 40px;
+    color: #202020;
     text-align: center;
-    margin: 30px 15px 20px 0px;
-    padding: 120px 30px;
-    width: 200px;
-    font-size: 25px;
-    font-style: inherit;
-}
-.work-1 {
-    display: inline-block;
-    background-color: #c1c1c1;
-    color: #464646;
-    text-align: center;
-    margin: 30px 15px 30px 120px;
-    padding: 120px 30px;
-    width: 200px;
-    font-size: 25px;
-    font-style: inherit;
-}
-.work-2 {
-    display: inline-block;
-    background-color: #c1c1c1;
-    color: #464646;
-    text-align: center;
-    margin: 30px 15px 30px 0px;
-    padding: 120px 30px;
-    width: 200px;
-    font-size: 25px;
-    font-style: inherit;
-}
-.work-3 {
-    display: inline-block;
-    background-color: #c1c1c1;
-    color: #464646;
-    text-align: center;
-    margin: 30px 15px 30px 0px;
-    padding: 120px 30px;
-    width: 200px;
-    font-size: 25px;
-    font-style: inherit;
-}
-.twitter {
-    display: inline-block;
-    background-color: #c1c1c1;
-    color: #464646;
-    text-align: start;
-    margin: 30px 250px 30px 120px;
-    padding: 50px 310px;
-    width: 200px;
-    font-size: 25px;
-    font-style: inherit;
 }
 footer {
-    background-color: #c1c1c1;
-}
-.footer {
-    margin: 0px 0px 0px 120px;
-}
-.footer a {
     display: inline-block;
+    background-color: gray;
+    margin: 10px 50px 10px 50px;
+    width: 1380px;
+    padding: 20px;
     font-style: initial;
-    color: #464646;
-    text-decoration: none;
-    font-size: 22px;
-    margin: 15px 10px 15px 10px;
-    padding: 10px;
-}
-.footer p {
-    display: inline-block;
-    font-style: inherit;
-    font-size: 18px;
-    color: #464646;
-    margin: 15px 10px 15px 230px;
-    padding: 10px;
+    font-size: 25px;
+    color: #202020;
+    text-align: center;
 }
